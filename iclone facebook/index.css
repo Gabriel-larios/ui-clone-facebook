@@ -1,0 +1,70 @@
+.logo_do_facebook{
+    max-width: 250px;
+    max-height: 250px;
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;   
+    margin-top: 100px;
+    background-color: rgb(243, 243, 243);
+    
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.input{
+    display: block;
+    border-radius: 5px;
+    width: 450px;
+    height: 55px;
+    margin: 0 auto;
+    margin-top: 10px;
+    color: rgb(202, 202, 202);
+    font-size: 17px;
+    border: solid;
+}
+
+.btn_entrar{
+    display: block;
+    border-radius: 5px;
+    width: 450px;
+    height: 55px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 17px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+.link_de_ajuda{
+    color: #1877f2;
+    margin-top: 20px;
+    display: block;
+    text-decoration: none;
+}
+
+.btn_criar_conta{
+    background-color: #42b72a;
+    border-radius: 5px;
+    width: 300px;
+    height: 70px;
+    font-size: 17px;
+    color: white;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+div{
+    background-color: white;
+    width: 500px;
+    padding: 40px;
+    border-radius: 10px;
+    /*box-shadow: 1px 2px 2px;*/
+}
